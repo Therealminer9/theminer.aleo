@@ -1,0 +1,3 @@
+cd tictactoe
+git init -b main
+git add
